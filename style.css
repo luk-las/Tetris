@@ -1,0 +1,26 @@
+body{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: monospace;
+}
+
+#score{
+	display: inline-block;
+}
+
+[type='submit']{
+	font-size: 25px;
+	font-family: monospace;
+	width: 200;
+	cursor: pointer;
+	height: 35px;
+}
+
+#submitPause{
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+#slow{
+	font-weight: bold;
+}
